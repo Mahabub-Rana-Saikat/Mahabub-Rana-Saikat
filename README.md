@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **2-2 Project**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Software Engineering**
 
